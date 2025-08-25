@@ -15,9 +15,9 @@ Based on the analysis in `movie_predict.ipynb`:
 
 | Model | Train R² | Test R² |
 |-------|----------|---------|
-| Random Forest | 0.8575 | 0.8169 |
-| Gradient Boosting | 0.8910 | 0.8400 |
-| Linear Regression (Polynomial) | 0.8158 | 0.8020 |
+| Random Forest | 0.8581 | 0.8165 |
+| Gradient Boosting | 0.8929 | 0.8362 |
+| Linear Regression (Polynomial) | 0.8162 | 0.8020 |
 
 ## 🛠️ Installation & Setup
 
